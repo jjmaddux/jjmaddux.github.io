@@ -1,3 +1,7 @@
+body {
+	background-image: url("https://images.fineartamerica.com/images-medium-large-5/earth-at-night-with-city-lights-johan-swanepoel.jpg"); background-size: cover;
+	font-family: sans-serif;
+}
 
 body,
 html {
@@ -21,7 +25,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("header.jpg");
+  background-image: url("https://images.fineartamerica.com/images-medium-large-5/earth-at-night-with-city-lights-johan-swanepoel.jpg");
   background-size: cover;
   height: 100%;
 }
@@ -56,4 +60,3 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
